@@ -14,3 +14,6 @@ If you are a member of the org, please make a folder to categorise what your scr
   - Extracted UnrealPak.exe binaries from UE4.24 for easy unpacking and packing mods
   - To unpack, simply drag 'n drop the pak file onto _Unpack.bat
   - To pack, put your mod's Content folder inside of the Input folder (e.g. Input/Content/Maps/...) and drag 'n drop the Input folder onto _Repack.bat
+* [All Textures In UE4 Format](https://drive.google.com/file/d/1KnkyAFPWRYV7v-xvL4q9cfuolcj7BDrQ/view?usp=sharing) - Created by Buckminsterfullerene
+  - Every texture reconstructed in UE4 (3.9GB download) asset format. 
+  - Just copy and paste into your project's Content folder
